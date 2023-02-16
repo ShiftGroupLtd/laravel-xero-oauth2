@@ -1,5 +1,5 @@
 {
-    "name": "webfox/laravel-xero-oauth2",
+    "name": "karlparrisshift/laravel-xero-oauth2",
     "description": "A Laravel integration for Xero using the Oauth 2.0 spec",
     "keywords": [
         "webfox",
@@ -21,7 +21,7 @@
     "require": {
         "php": "^7.3|^8.0|^8.1",
         "xeroapi/xero-php-oauth2": "^2.0",
-        "laravel/framework": "^6.0|^7.0|^8.0|^9.0"
+        "laravel/framework": "^5.0|^6.0|^7.0|^8.0|^9.0"
     },
     "require-dev": {
         "symfony/var-dumper": "^4.3",
